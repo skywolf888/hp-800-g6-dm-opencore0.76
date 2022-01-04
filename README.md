@@ -22,11 +22,12 @@
 3. Download [**GenSMBIOS**](https://github.com/corpnewt/GenSMBIOS) to generate unique SMBIOS information. Run it and select **Generate SMBIOS**, as the model select **iMac20,1**.
 4. Open config.plist with [**ProperTree**](https://github.com/corpnewt/ProperTree) and go to PlatformInfo > Generic. Set MLB (Board Serial), SystemSerialNumber (Serial) and SystemUUID (SmUUID) to generated values. Change ROM to your network card's MAC address without the `:` character. [**How to get MAC Address?**](https://www.wikihow.com/Find-the-MAC-Address-of-Your-Computer)
 5. Boot it!
+6. Don't use front right Usb port!
 
 ## All work
 
 - CPU
-- Dual monitors (Displayport & HDMI & VGA)
+- Dual monitors (two Displayport)
 - Audio
 - Ethernet
 - USB
