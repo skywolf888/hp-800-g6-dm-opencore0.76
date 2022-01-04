@@ -1,4 +1,4 @@
-# OpenCore EFI for Lenovo M730Q (macOS 12.1)
+# OpenCore EFI for HP EliteDesk 800 g6(macOS 11.6)
 ## Just for backup
 
 ## Specification
