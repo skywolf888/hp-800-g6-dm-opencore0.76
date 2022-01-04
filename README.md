@@ -5,14 +5,14 @@
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | Intel i5-10500T |
-| RAM | 2 * 8GB DDR4-2133 |
-| Audio Chipset | ALC233 |
-| GPU | Intel® UHD Graphics 630 (DP, HDMI, VGA) |
-| OS Disk (NVMe) | LITEON T10 NVMe 256G |
-| WIFI | Intel 7265 |
+| RAM | 1 * 16GB DDR4-2666 |
+| Audio Chipset | ALC2222 |
+| GPU | Intel® UHD Graphics 630 (DP) |
+| OS Disk (NVMe) | SN732 NVMe 256G |
+
 | Ethernet | Intel I219-V |
 
-**macOS version**: 12.1
+**macOS version**: 11.6
 **OpenCore version**: 0.7.6
 
 ## How to use
