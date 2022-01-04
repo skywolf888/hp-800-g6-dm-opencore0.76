@@ -9,7 +9,6 @@
 | Audio Chipset | ALC2222 |
 | GPU | Intel® UHD Graphics 630 (DP) |
 | OS Disk (NVMe) | SN732 NVMe 256G |
-
 | Ethernet | Intel I219-V |
 
 **macOS version**: 11.6
