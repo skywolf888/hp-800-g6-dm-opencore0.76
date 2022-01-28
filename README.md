@@ -6,7 +6,7 @@
 | ------------- | --------- |
 | CPU | Intel i5-10500T |
 | RAM | 1 * 16GB DDR4-2666 |
-| Audio Chipset | ALC2222 |
+| Audio Chipset | ALC222 |
 | GPU | Intel® UHD Graphics 630 (DP) |
 | OS Disk (NVMe) | SN732 NVMe 256G |
 | Ethernet | Intel I219-V |
